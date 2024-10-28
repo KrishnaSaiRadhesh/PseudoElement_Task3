@@ -81,7 +81,7 @@ main{
     height: 50px;
     width: 500px;
     position: absolute;
-    bottom: 275px;
+    bottom: 100px;
     border-radius: 0px 0px 20px 20px;
     display: flex;
     align-items: center;
@@ -148,7 +148,7 @@ main{
     height: 50px;
     width: 313px;
     position: absolute;
-    bottom: 260px;
+    bottom: 90px;
     border-radius: 0px 0px 20px 20px;
     display: flex;
     align-items: center;
